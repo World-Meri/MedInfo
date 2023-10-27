@@ -1,0 +1,11 @@
+body{
+    background-color: azure;
+    color: rgb(134, 31, 109);
+    margin: 5px;
+    padding: 2px;
+}
+header,
+footer {
+    text-align: right;
+    background-color: gainsboro;
+}
