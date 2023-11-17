@@ -10,23 +10,9 @@ header, footer {
 }
 p {
     text-align: right;
-    background-color: gainsboro;
 }
-h2 {
+h2, h3, h4 {
     color: crimson;
     text-align: center;
-    background-color: gainsboro;
-    text-decoration-line: underline;
-}
-h3 {
-    color: crimson;
-    text-align: center;
-    background-color: gainsboro;
-    text-decoration-line: underline;
-}
-h4 {
-    color: crimson;
-    text-align: center;
-    background-color: gainsboro;
     text-decoration-line: underline;
 }
