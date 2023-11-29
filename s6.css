@@ -13,6 +13,11 @@ p {
     text-align: justify;
     text-indent: 8ch;
 }
+p::first-line {
+    font-size: 120%;
+    color: black;
+    text-decoration: underline;
+}
 h2, h3, h4 {
     color: crimson;
     text-decoration: underline;

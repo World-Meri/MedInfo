@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin: 5px;
+    padding: 2px;
+}
+header, footer {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+p {
+    text-align: left;
+}
+h2, h3, h4 {
+    color: crimson;
+    text-align: center;
+    text-decoration-line: underline;
+}
+h1 {
+    color: rgb(255, 123, 0);
+    text-align: center;
+    font-size: medium;
+}
