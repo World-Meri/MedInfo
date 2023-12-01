@@ -4,7 +4,11 @@ body{
     margin: 5px;
     padding: 2px;
 }
-header, footer {
+header {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+footer {
     text-align: center;
     background-color: rgb(255, 255, 255);
 }
@@ -19,5 +23,5 @@ h2, h3, h4 {
 h1 {
     color: rgb(255, 123, 0);
     text-align: center;
-    font-size: medium;
+    font-size: 30px;
 }
